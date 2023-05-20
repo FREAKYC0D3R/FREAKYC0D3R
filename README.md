@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil de Guilherme Alvaro!😁
 
+Aqui em meu perfil você achará os projetos pessoais e não pessoais que estou trabalhando atualmente.
+
  <div>
    <a href="https://github.com/FREAKYC0D3R">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FREAKYC0D3R&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,8 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-  <img align="center" alt="ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+
 
 
 </div>
